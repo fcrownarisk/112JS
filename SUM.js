@@ -17,7 +17,7 @@ export const triDET = 'tri % DET'
 export const ONEsquare = 'ONE * square'
 export const squareONE = 'square % ONE'
 export const oppoPyramid = 'antipyramid / pyramid'
-export const dimPyramid = 'suqare - antisquare'
+export const dimPyramid = 'square - antisquare'
 void function SUM(){
     void ['DET/tri+ tri/DET'===DETtri + triDET]
     void [DETtri+ONEsquare===squareONE+triDET]
