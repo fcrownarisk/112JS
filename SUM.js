@@ -27,5 +27,5 @@ void function SUM(){
     return SUM
 }
 console.log(DETtri,triDET)
-console.log(DET,tri,ONE,square)
+console.log(DET,tri,ONE,Square)
 console.log(Pyramid,ONEsquare,squareONE,oppoPyramid,dimPyramid)
